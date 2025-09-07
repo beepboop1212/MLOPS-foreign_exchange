@@ -1,0 +1,6 @@
+zenml
+scikit-learn
+mlflow
+evidently
+python-dotenv
+fastapi

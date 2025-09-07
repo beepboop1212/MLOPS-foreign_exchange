@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+
+# Secrets
+.env
+
+# ZenML local files (very important!)
+.zen/
+
+# MLflow local files
+mlruns/
+
+# IDE and OS files
+__pycache__/
+.vscode/
+.idea/
+*.pyc
+.DS_Store
